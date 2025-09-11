@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">evaluacion</string>
+    <string name="txtEmpresa">Bienvenido</string>
+    <string name="txtInfo">Bienvenido a mi aplicación institucional</string>
 </resources>
