@@ -4,4 +4,5 @@
     <string name="txtInfo">Bienvenido a mi aplicación institucional</string>
     <string name="btnLogin">Iniciar Sesión</string>
     <string name="btnRegister">Registrarse</string>
+    <string name="txtDescripcion">En esta aplicacion podras crear, editar y marcar como realizada las actividades que quieras ingresar en ella</string>
 </resources>
