@@ -9,8 +9,9 @@
 
     <TextView
         android:id="@+id/txtInfo"
-        android:layout_width="347dp"
-        android:layout_height="178dp"
+        android:layout_width="363dp"
+        android:layout_height="213dp"
+        android:fontFamily="casual"
         android:text="@string/txtInfo"
         android:textAlignment="center"
         android:textColor="@color/black"
@@ -20,13 +21,15 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.161" />
+        app:layout_constraintVertical_bias="0.148" />
 
     <Button
         android:id="@+id/btnRegister"
         android:layout_width="364dp"
         android:layout_height="48dp"
+        android:fontFamily="casual"
         android:text="@string/btnRegister"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -39,7 +42,9 @@
         android:layout_width="361dp"
         android:layout_height="48dp"
         android:layout_marginBottom="256dp"
+        android:fontFamily="casual"
         android:text="@string/btnLogin"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -50,6 +55,7 @@
         android:id="@+id/txtDescripcion"
         android:layout_width="318dp"
         android:layout_height="59dp"
+        android:fontFamily="casual"
         android:text="@string/txtDescripcion"
         android:textAlignment="center"
         android:textColor="@color/black"
@@ -65,8 +71,10 @@
         android:id="@+id/txtDerechos"
         android:layout_width="344dp"
         android:layout_height="45dp"
+        android:fontFamily="casual"
         android:text="@string/txtDerechos"
         android:textAlignment="center"
+        android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

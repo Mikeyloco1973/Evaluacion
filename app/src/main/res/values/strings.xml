@@ -15,4 +15,5 @@
     <string name="txtEmail">Ingresa tu Correo Electronico</string>
     <string name="txtContraseña">Ingresa tu Contraseña</string>
     <string name="lblContraseña">*****</string>
+    <string name="btnVer">.</string>
 </resources>
