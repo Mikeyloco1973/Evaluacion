@@ -9,4 +9,10 @@
     <string name="txtUsuario">Usuario</string>
     <string name="txtPassword">Contraseña</string>
     <string name="txtDerechos">Tiene que iniciar sesion debido a nuestros terminos y condiciones de app</string>
+    <string name="txtIniciarSesion">Iniciar Sesion</string>
+    <string name="txtIngresar">Ingresa tus datos de inicio de sesion</string>
+    <string name="lblEmail">email@email.com</string>
+    <string name="txtEmail">Ingresa tu Correo Electronico</string>
+    <string name="txtContraseña">Ingresa tu Contraseña</string>
+    <string name="lblContraseña">*****</string>
 </resources>
