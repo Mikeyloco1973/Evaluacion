@@ -16,4 +16,7 @@
     <string name="txtContraseña">Ingresa tu Contraseña</string>
     <string name="lblContraseña">*****</string>
     <string name="btnVer">.</string>
+    <string name="cboxRecordar">Recordarme</string>
+    <string name="btnIniciarSesion">Iniciar Sesion</string>
+    <string name="btnVolver">Volver al Inicio</string>
 </resources>
