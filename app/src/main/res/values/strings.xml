@@ -4,8 +4,9 @@
     <string name="txtInfo">Bienvenido a mi aplicación institucional</string>
     <string name="btnLogin">Iniciar Sesión</string>
     <string name="btnRegister">Registrarse</string>
-    <string name="txtDescripcion">En esta aplicacion podras crear, editar y marcar como realizada las actividades que quieras ingresar en ella</string>
+    <string name="txtDescripcion">App diseñada para agregar, editar y administrar tus tareas</string>
     <string name="btnIngresar">Ingresar</string>
     <string name="txtUsuario">Usuario</string>
     <string name="txtPassword">Contraseña</string>
+    <string name="txtDerechos">Tiene que iniciar sesion debido a nuestros terminos y condiciones de app</string>
 </resources>
