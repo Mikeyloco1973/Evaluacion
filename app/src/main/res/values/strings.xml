@@ -1,10 +1,14 @@
 <resources>
     <string name="app_name">evaluacion</string>
+
+    //Pantalla Principal
     <string name="txtEmpresa">Bienvenido</string>
     <string name="txtInfo">Bienvenido a mi aplicación institucional</string>
     <string name="btnLogin">Iniciar Sesión</string>
     <string name="btnRegister">Registrarse</string>
     <string name="txtDescripcion">App diseñada para agregar, editar y administrar tus tareas</string>
+
+    //login
     <string name="btnIngresar">Ingresar</string>
     <string name="txtUsuario">Usuario</string>
     <string name="txtPassword">Contraseña</string>
@@ -19,4 +23,20 @@
     <string name="cboxRecordar">Recordarme</string>
     <string name="btnIniciarSesion">Iniciar Sesion</string>
     <string name="btnVolver">Volver al Inicio</string>
+
+    //Register
+    <string name="txtRegistro">Register</string>
+    <string name="txtNombreCompleto">Nombre completo</string>
+    <string name="txtCorreo">Correo electrónico</string>
+    <string name="txtUsuarioR">Nombre de usuario</string>
+    <string name="txtPasswordR">Contraseña</string>
+    <string name="txtRepetirPassword">Repetir contraseña</string>
+    <string name="lblNombreCompleto">Nombre completo</string>
+    <string name="lblCorreo">email@email.com</string>
+    <string name="lblUsuario">Nombre de usuario</string>
+    <string name="lblPassword">Contraseña</string>
+    <string name="lblRepetirPassword">Repetir contraseña</string>
+    <string name="btnRegistrarse">Registrarse</string>
+    <string name="btnVer1">.</string>
+    <string name="btnVer2">.</string>
 </resources>
